@@ -1,0 +1,78 @@
+#id1 {
+    padding: 10px;
+    text-align: center;
+    background: rgb(206, 95, 5);
+  }
+  
+  #id1 h1 {
+    font-size: 30px;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333131;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .topnav a:hover {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .row {
+    overflow: hidden;
+  }
+  
+  .leftcolumn {
+    float: left;
+    width: 70%;
+  }
+  
+  .rightcolumn {
+    float: right;
+    width: 30%;
+    background-color: #f1f1f1;
+    padding-left: 20px;
+  }
+  
+  .fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  .card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: 0.3s;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+  }
+  
+  .footer {
+    background-color: #56065e;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    clear: both;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    
+  }

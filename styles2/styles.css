@@ -1,0 +1,54 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    background: rgb(15, 190, 221);
+  }
+  
+  .header h1 {
+    font-size: 30px;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333131;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .topnav a:hover {
+    background-color: #14cedb;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .row {
+    overflow: hidden;
+  } 
+  
+  #miid1 {
+    background-color: #ff1100;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    clear: both;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    opacity: 0.5;
+  }
+  h1{
+    font-family: 'Brush Script MT', cursive;
+  }
+  p{
+    font-family: 'Arial', sans-serif;
+  }
